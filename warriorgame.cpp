@@ -1,6 +1,6 @@
 
 // Author: Salma Awan, sma9000
-// hw02.cpp
+// Implementation of Warrior Game
 #include <fstream>
 #include <iostream>
 #include <string>
